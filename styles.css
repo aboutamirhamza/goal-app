@@ -17,9 +17,18 @@ body {
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
 }
 
-p{
-  color: rgb(119, 119, 119);
+.screenshot{
+  color: red;
+  border: 1px solid red;
+  padding: 10px 15px;
+  border-radius: 5px;
   font-size: 0.8rem;
+}
+
+.goal{
+  font-size: 33px;
+  color: #8b005d;
+
 }
 
 label, input {

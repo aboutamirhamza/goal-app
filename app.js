@@ -1,5 +1,5 @@
 const buttonEl = document.querySelector('button');
-const inputEl = document.querySelector('input');
+const inputEl = document.querySelector('textarea');
 const elementUl = document.querySelector('ul');
 
 function addGoal(){
